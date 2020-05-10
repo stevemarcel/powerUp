@@ -1,2 +1,2 @@
 # powerUp
- A websiteUI  template for an electrical business.
+ A website UI template for an electrical business.
