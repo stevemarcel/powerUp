@@ -113,6 +113,7 @@ footer .content {
 @keyframes stephen-animation {
   from{
     transform: scale(0.5);
+    transform: translate(-50%, -40%);
   }
   to{
     transform: scale(1);
