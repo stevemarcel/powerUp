@@ -2,7 +2,7 @@
 
  A website UI template for an electrical business. This site UI was built using HTML, [bootstrap](https://bootstrap.com), [font awesome](https://fontawesome.com) and [dynamic drive favicon generator](https://tools.dynamicdrive.com/favicon).
 
- ## Page Layouts
+## Page Layouts
 
 Desktop view
 
