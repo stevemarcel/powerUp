@@ -1,8 +1,9 @@
-:root{
+:root {
   overflow-x: hidden;
   --dark: #222;
   --white: #f1f1f1;
 }
+
 * {
   box-sizing: border-box;
 }
@@ -49,7 +50,7 @@ textarea {
   -webkit-filter: blur(8px);
 }
 
-#showcase .logo img{
+#showcase .logo img {
   width: 50%;
 }
 
@@ -86,8 +87,8 @@ footer .content {
 }
 
 /* Media Queries */
-@media (max-width: 768px){
-  #showcase .logo img{
+@media (max-width: 768px) {
+  #showcase .logo img {
     width: 60%;
   }
 
@@ -99,8 +100,9 @@ footer .content {
     text-align: center;
   }
 }
-@media (max-width: 576px){
-  #showcase .logo img{
+
+@media (max-width: 576px) {
+  #showcase .logo img {
     width: 80%;
   }
 
@@ -115,11 +117,12 @@ footer .content {
 
 /* Animation */
 @keyframes stephen-animation {
-  from{
+  from {
     transform: scale(0.5);
     transform: translate(-50%, -40%);
   }
-  to{
+
+  to {
     transform: scale(1);
     transform: translate(-50%, -50%);
   }
