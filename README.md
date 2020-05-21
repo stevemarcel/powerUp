@@ -4,14 +4,14 @@
 
 ## Page Layouts
 
-Desktop view
+- Desktop view
 
 ![Desktop view](img/Power-Up-desktop-view.jpg)
 
-Mobile view
+- Mobile view
 
 ![Mobile view](img/Power-Up-mobile-view.jpg)
 
 ## Author(s)
 
-[stevemarcel](https://github.com/stevemarcel)
+- [stevemarcel](https://github.com/stevemarcel)
