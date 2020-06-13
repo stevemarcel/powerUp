@@ -6,11 +6,11 @@
 
 - Desktop view
 
-![Desktop view](img/Power-Up-desktop-view.jpg)
+![Desktop view](./assets/img/Power-Up-desktop-view.jpg)
 
 - Mobile view
 
-![Mobile view](img/Power-Up-mobile-view.jpg)
+![Mobile view](./assets/img/Power-Up-mobile-view.jpg)
 
 ## Author(s)
 
